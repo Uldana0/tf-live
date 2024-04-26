@@ -1,5 +1,5 @@
 variable "account_id" {
-  default = "207953009462-compute@developer.gserviceaccount.com"
+  default = "my-service-account"
 }
 
 variable "display_name" {

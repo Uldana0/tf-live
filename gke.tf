@@ -1,5 +1,5 @@
 provider "google" {
-  project    = "UldanaS"
+  project    = "uldana"
   region     = "us-central1-c"
 }
 
